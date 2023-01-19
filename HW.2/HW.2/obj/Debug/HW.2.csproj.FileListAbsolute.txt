@@ -1,0 +1,11 @@
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\bin\Debug\HW.2.exe.config
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\bin\Debug\HW.2.exe
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\bin\Debug\HW.2.pdb
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\obj\Debug\HW.2.csproj.AssemblyReference.cache
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\obj\Debug\HW.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\obj\Debug\HW._2.Form1.resources
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\obj\Debug\HW._2.Properties.Resources.resources
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\obj\Debug\HW.2.csproj.GenerateResource.cache
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\obj\Debug\HW.2.csproj.CoreCompileInputs.cache
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\obj\Debug\HW.2.exe
+C:\Users\ирина\Desktop\GitHub\WFHomeWorks\HW.2\HW.2\obj\Debug\HW.2.pdb
