@@ -20,10 +20,10 @@ namespace HW._6._2
     /// </summary>
     public partial class MainWindow : Window
     {
-        private double[] operandsArray = new double[41];
+        private double[] operandsArray = new double[2];
         int operandsIterator = 0;
 
-        private int[] operatorsArray = new int[40];
+        private int[] operatorsArray = new int[2];
         int operatorsIterator = 0;
 
         string Text;
@@ -45,7 +45,29 @@ namespace HW._6._2
         // Button =
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            if(operatorsArray[0] == 3)
+            {
+                operandsArray[0] *= -1;
+            }
+            SmallText.Text = BigText.Text;
 
+            double buf = 0;
+            switch (operatorsArray[1])
+            {
+                case 1:  // /
+                    buf = operandsArray[0] / operandsArray[1];
+                    break;
+                case 2:  // *
+                    buf = operandsArray[0] * operandsArray[1];
+                    break;
+                case 3:  // -
+                    buf = operandsArray[0] - operandsArray[1];
+                    break;
+                case 4:  // +
+                    buf = operandsArray[0] + operandsArray[1];
+                    break;
+            }
+            BigText.Text = Convert.ToString(buf);
         }
 
         // Button C
