@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCJ710+CXtPi5lmsDDa5PU6dv+ufpzkcFQmXR9RrYExVJW9fRmRFbXnQPY2qiiQaGVti6VCe7c8cjJ5RCEokWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ирина\\Desktop\\GitHub\\WFHomeWorks\\HW10\\HW10\\HW10.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ирина\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\ирина\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\ирина\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
